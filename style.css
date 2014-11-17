@@ -1,0 +1,12 @@
+h1 {
+    font-family: 'Roboto Slab', serif;
+ color:purple;
+ font-size:80px;
+ text-decoration: underline;
+    font-weight: 800;
+}
+
+p {
+ color:blue;
+ font-size:24px;
+}
