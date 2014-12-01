@@ -10,3 +10,22 @@ p {
  color:blue;
  font-size:24px;
 }
+
+body{
+    margin:0;
+}
+
+header{
+    background-color:#6a0b91;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+header li { 
+    list-style:georgian;
+    display: inline-block;
+    margin-left: 25px;
+    margin-right: 25px;
+    text-align: center;
+    width:24%
+        
+   }
