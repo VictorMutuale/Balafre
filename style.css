@@ -12,15 +12,21 @@ p {
 }
 
 body{
-    margin:0;
+    background-image: url(http://xn--80aqafcrtq.cc/img/1/6/9/1692.jpg);    margin:0;
 }
 
 header{
-    background-color:#6a0b91;
+    
+    background-color:#6a0b90;
     padding-top: 10px;
     padding-bottom: 10px;
 }
+header a{
+color:white;
+}
 header li { 
+
+   font-family: fantasy;
     list-style:georgian;
     display: inline-block;
     margin-left: 25px;
